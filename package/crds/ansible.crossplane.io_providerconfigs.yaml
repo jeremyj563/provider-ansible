@@ -25,7 +25,7 @@ spec:
     name: v1alpha1
     schema:
       openAPIV3Schema:
-        description: A ProviderConfig configures an Asnible provider.
+        description: A ProviderConfig configures an Ansible provider.
         properties:
           apiVersion:
             description: |-
